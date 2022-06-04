@@ -131,7 +131,7 @@ hr{
     margin-left: 25px;
 }
 #switchDiv{
-    padding-left: 26.5em;
+    padding-left: 21.5em;
 }
 .toggle {
     position: relative;
@@ -184,8 +184,9 @@ hr{
         border-radius: 0.5em;
         border: none;
     }
+    
     #subButton, #instruction{
-        padding-left: 26.5em;
+        padding-left: 21.5em;
     }
     #mailLink{
         text-decoration: none;
